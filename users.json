@@ -1,0 +1,143 @@
+[
+  {
+    "id": 109,
+    "name": "Farhan",
+    "phone": "0333-9876876",
+    "address": "House No. 678, Millat Town, Faisalabad",
+    "city": "Faisalabad",
+    "gender": "male",
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Teamwork"
+    ]
+  },
+  {
+    "id": 110,
+    "name": "Amina",
+    "phone": "0300-3456776",
+    "gender": "female",
+    "skills": [
+      "Communication",
+      "Leadership"
+    ],
+    "address": "Street No. 12, G-9, Peshawar",
+    "city": "Quetta"
+  },
+  {
+    "id": 111,
+    "name": "Imran",
+    "phone": "0321-8765432",
+    "gender": "male",
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Technical Skill",
+      "Teamwork",
+      "Leadership"
+    ],
+    "address": "House No. 345, Johar Town, Lahore",
+    "city": "Lahore"
+  },
+  {
+    "id": 113,
+    "name": "Bilal",
+    "phone": "0312-7654321",
+    "gender": "male",
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Teamwork"
+    ],
+    "address": "Street No. 30, Cantt, Abbottabad",
+    "city": "Abbottabad"
+  },
+  {
+    "id": 114,
+    "name": "Fizza",
+    "phone": "0333-8765432",
+    "address": "House No. 890, Peoples Colony, Peshawar",
+    "city": "Peshawar",
+    "gender": "female",
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Teamwork"
+    ]
+  },
+  {
+    "id": 120,
+    "name": "Tahir",
+    "phone": "0326-1263478",
+    "gender": "male",
+    "skills": [
+      "Communication",
+      "Problem Solving",
+      "Teamwork"
+    ],
+    "address": "House no 45,street no 5, Johar Town, Lahore",
+    "city": "Lahore"
+  },
+  {
+    "id": 125,
+    "name": "Rehan",
+    "phone": "1318-8437546",
+    "gender": "male",
+    "skills": [
+      "Communication",
+      "Teamwork"
+    ],
+    "address": "Chak no 126/15L Mian Channu, Tehsil Mian Channu District Khanewal",
+    "city": "Multan"
+  },
+  {
+    "id": 130,
+    "name": "Hassan",
+    "phone": "0327-9876543",
+    "address": "house no 76, street no 6, Al-Faisal Town, Lahore",
+    "city": "Lahore",
+    "gender": "male",
+    "skills": [
+      "Technical-skill",
+      "Problem Solving",
+      "Communication"
+    ]
+  },
+  {
+    "id": 135,
+    "name": "Sara",
+    "phone": "0300-7654892",
+    "gender": "female",
+    "skills": [
+      "Communication",
+      "Technical Skill",
+      "Leadership"
+    ],
+    "address": "house no 87, street no 4, bahria Twon phase 4, Islambad",
+    "city": "Islamabad"
+  },
+  {
+    "id": 122,
+    "name": "Areeb",
+    "phone": "03344984973",
+    "gender": "male",
+    "skills": [
+      "Technical Skill"
+    ],
+    "address": "Chak no 126/15L Mian channu Tehsil Mian channu district khanewal",
+    "city": "Peshawar"
+  },
+  {
+    "id": 561,
+    "name": "Mustafa",
+    "phone": "0328-9867453",
+    "gender": "male",
+    "skills": [
+      "Problem Solving",
+      "Technical Skill",
+      "Teamwork"
+    ],
+    "address": "Chak no 126/15L Mian Channu, Tehsil Mian Channu District Khanewal",
+    "city": "Multan"
+  }
+]
